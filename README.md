@@ -1,6 +1,6 @@
 # netcat
 
-[subfuzion/netcat](https://hub.docker.com/repository/docker/subfuzion/netcat/general)
+[subfuzion/netcat on Docker Hub](https://hub.docker.com/repository/docker/subfuzion/netcat/general)
 
 Simple Alpine image for running netcat (`nc`).
 
