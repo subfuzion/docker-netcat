@@ -1,6 +1,6 @@
 # netcat
 
-[![Docker Build Statu](https://img.shields.io/docker/build/subfuzion/netcat.svg)](https://hub.docker.com/r/subfuzion/netcat)
+[subfuzion/netcat](https://hub.docker.com/repository/docker/subfuzion/netcat/general)
 
 Simple Alpine image for running netcat (`nc`).
 
@@ -90,11 +90,11 @@ Start netcat server in one terminal
 
     $ ncs 8888
 
-Send a message from another terminal
+Send a message from a second terminal
 
     $ echo "hello world" | nc 8888
 
-To kill both containers from yet another terminal
+To kill both containers from a third terminal
 
     $ docker rm -f nc ncs
 
