@@ -1,6 +1,6 @@
 # netcat
 
-[![Docker Build Statu](https://img.shields.io/docker/build/subfuzion/netcat.svg)](https://hub.docker.com/r/subfuzion/docker-netcat)
+[![Docker Build Statu](https://img.shields.io/docker/build/subfuzion/netcat.svg)](https://hub.docker.com/r/subfuzion/netcat)
 
 Simple Alpine image for running netcat (`nc`).
 
